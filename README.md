@@ -1,1 +1,1 @@
-# bmi-calculator
+A python practice exercise - # bmi-calculator
